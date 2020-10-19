@@ -1,0 +1,13 @@
+{
+  "name": "com.revenantx.litenetlib",
+  "displayName": "LiteNetLib",
+  "version": "0.9.0",
+  "unity": "2019.3",
+  "description": "LiteNetLib 0.9 indev",
+  "keywords": [
+    "LiteNetLib ",
+    "Networking"
+  ],
+  "category": "",
+  "dependencies": {}
+}
